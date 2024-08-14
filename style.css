@@ -32,3 +32,16 @@ position: absolute;
   margin: auto;
 }
 
+button {
+width: 200px;
+height: 50px;
+position: absolute;
+margin: auto;
+left: 40%;
+background-color: rgb(31, 31, 31);
+ color: #fff;
+ border-radius: 10px;
+ font-weight: bold;
+ font-size: large;
+ border: none;
+}
